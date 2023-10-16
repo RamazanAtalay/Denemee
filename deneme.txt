@@ -1,2 +1,3 @@
-This is the for line of the File.
-second line
+This is the for line of the File
+localden degisiklik
+
